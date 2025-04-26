@@ -13,7 +13,7 @@ reset='\033[0m'
 if [ $# -ne 1 ]; then
   echo -e "Usage: $0 $yellow<ticket.b64|kirbi|ccache>$reset"
   echo ""
-  echo -e $green"Created by Exited3n | https://t.me/pt_soft"$reset
+  echo -e $green"Created by Exited3n | https://t.me/wh_lab"$reset
   echo ""
   exit 1
 fi
@@ -58,5 +58,5 @@ else
 fi
 
 echo ""
-echo -e $green"Created by Exited3n | https://t.me/pt_soft"$reset
+echo -e $green"Created by Exited3n | https://t.me/wh_lab"$reset
 echo ""
